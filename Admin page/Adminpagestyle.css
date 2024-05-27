@@ -1,0 +1,48 @@
+body {
+    background: linear-gradient(135deg, #080cd1, rgba(7, 173, 2, 0.918));
+}
+
+.container {
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    padding-bottom: 230px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+h1, h2 {
+    color: #007bff;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+.card-body {
+    color: #495057;
+}
+
+table {
+    border: 1px solid #dee2e6;
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+}
+
+thead {
+    background-color: #007bff;
+    color: #fff;
+}
+
+div {
+    padding: flex;
+}
+
+.pro {
+    padding: auto;
+    margin-bottom: auto;
+}
